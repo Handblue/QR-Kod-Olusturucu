@@ -6,6 +6,7 @@ yazarak indiriyoruz. Daha sonra kodlarımızı yazıp çalıştırabiliriz.
 qr = "https://www.google.com/" google yazan yere QR Koda çevirmek istediğiniz adresi yazıyorsunuz.
 
 Not: qrdeneme.svg google.com un QR kod'a çevrilmiş halidir.
+
 Görsel: 
 
 
