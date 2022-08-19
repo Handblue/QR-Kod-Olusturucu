@@ -7,6 +7,10 @@ qr = "https://www.google.com/" google yazan yere QR Koda çevirmek istediğiniz 
 
 Not: qrdeneme.svg google.com un QR kod'a çevrilmiş halidir.
 
+'''
+pip install pyqrcode
+'''
+
 Görsel: 
 
 
