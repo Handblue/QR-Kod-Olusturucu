@@ -1,4 +1,4 @@
-Web sitelerinizi QR Koda çevirin
+Web sitesini QR Koda çevirin
 
 import pyqrcode Sizde olmadığı için (Muhtemelen yok) terminale "pip install pyqrcode"
 yazarak indiriyoruz. Daha sonra kodlarımızı yazıp çalıştırabiliriz.
